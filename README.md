@@ -1,2 +1,2 @@
 # FranklyAirbnb_React
-爱彼迎网站开源项目实战
+爱彼迎网站项目实战
